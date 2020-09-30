@@ -1,8 +1,9 @@
 output = open('output.txt', 'w')
-fileInput = open('input.txt', 'r')
+fileInput = open('practical.txt', 'r')
 
 data = fileInput.read()
-newContent = data[::-1]
+newC = data[::-1]
 
-output.write(newContent)
+output.write(newC)
 output.close()
+fileInput.close()
