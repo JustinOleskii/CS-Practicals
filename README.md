@@ -16,9 +16,9 @@ Compilation of Computer Science Practical Solutions for the year 2020-21 in Pyth
 - [x] Write a program to read a file line by line and display each word separated by a ‘#'.
 
 ### Binary Files
-- [ ] Write a program to append data in a binary file and show all the data values on the screen.
-- [ ] Write a menu driven program to write the details of n students in a binary file and display details of a particular student on the screen depending on the Roll.
-- [ ] Consider a binary file “Emp.dat” containing details such as empId , ename and salary .Write a program to display details of those employees whose salary is between 20000 and 40000. 
+- [x] Write a program to append data in a binary file and show all the data values on the screen.
+- [x] Write a menu driven program to write the details of n students in a binary file and display details of a particular student on the screen depending on the Roll.
+- [x] Consider a binary file “Emp.dat” containing details such as empId , ename and salary .Write a program to display details of those employees whose salary is between 20000 and 40000. 
 
 ### CSV Files
 - [ ] Write a program to insert Roll, Name, Class and Marks of n number of students in CSV File
