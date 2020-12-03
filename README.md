@@ -9,11 +9,11 @@ Compilation of Computer Science Practical Solutions for the year 2020-21 in Pyth
 - [x] Write a program to store name and currency of n countries. Find the currency used on the basis of country name.
 
 ### Text Files
-- [ ] Write a program to read a text file and count total no. of lower case vowels in it.
-- [ ] Write a program to count total no. of lines beginning with ‘A’ in a text file.
-- [ ] Write a program to convert all vowels in a text file from upper to lower case and vice-versa. 
-- [ ] Write a program to read a file and count total no. of words 'am' in it.
-- [ ] Write a program to read a file line by line and display each word separated by a ‘#'.
+- [x] Write a program to read a text file and count total no. of lower case vowels in it.
+- [x] Write a program to count total no. of lines beginning with ‘A’ in a text file.
+- [x] Write a program to convert all vowels in a text file from upper to lower case and vice-versa. 
+- [x] Write a program to read a file and count total no. of words 'am' in it.
+- [x] Write a program to read a file line by line and display each word separated by a ‘#'.
 
 ### Binary Files
 - [ ] Write a program to append data in a binary file and show all the data values on the screen.
