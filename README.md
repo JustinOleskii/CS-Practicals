@@ -21,8 +21,8 @@ Compilation of Computer Science Practical Solutions for the year 2020-21 in Pyth
 - [x] Consider a binary file “Emp.dat” containing details such as empId , ename and salary .Write a program to display details of those employees whose salary is between 20000 and 40000. 
 
 ### CSV Files
-- [ ] Write a program to insert Roll, Name, Class and Marks of n number of students in CSV File
-- [ ] Write a program to read a CSV file and show details of only those students who have even Roll.
+- [x] Write a program to insert Roll, Name, Class and Marks of n number of students in CSV File
+- [x] Write a program to read a CSV file and show details of only those students who have even Roll.
 
 ### Data Structure
 - [ ] Write a menu driven program to Push and Pop an integer element in an List-Stack.
