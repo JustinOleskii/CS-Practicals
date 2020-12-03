@@ -25,7 +25,7 @@ Compilation of Computer Science Practical Solutions for the year 2020-21 in Pyth
 - [x] Write a program to read a CSV file and show details of only those students who have even Roll.
 
 ### Data Structure
-- [ ] Write a menu driven program to Push and Pop an integer element in an List-Stack.
+- [x] Write a menu driven program to Push and Pop an integer element in an List-Stack.
 
 ### Interface of MySQL with Python
 - [ ] Write a program to add a new record in a table.
